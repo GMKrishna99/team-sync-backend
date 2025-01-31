@@ -1,2 +1,2 @@
-.env
-.env.example
+# Environment variables
+.env*
